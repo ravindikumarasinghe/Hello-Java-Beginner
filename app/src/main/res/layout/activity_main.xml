@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btnOK"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="OK"
@@ -18,7 +18,7 @@
         app:layout_constraintVertical_bias="0.67" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/txtBeginner"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello Beginner"
