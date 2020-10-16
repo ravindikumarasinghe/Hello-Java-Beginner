@@ -1,1 +1,2 @@
-# Hello-Java-Beginner
+# Hello Java Beginner
+Learning Repository for Android Studio Projects   
